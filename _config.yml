@@ -1,0 +1,11 @@
+markdown: kramdown
+sass:
+  compressed: true
+  sass_dir: _sass
+exclude:
+  - .circleci
+  - .gitignore
+  - bin
+  - Gemfile
+  - Gemfile.lock
+  - vendor
