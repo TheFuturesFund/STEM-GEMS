@@ -1,0 +1,12 @@
+pwd: list file directory
+mkdir: makes new directory
+cd: change directory
+ls: list
+cd . .: goes back into parent directory
+Atom: a text editor
+touch: makes new file
+.: current directory
+. .: parent directory
+jekyll serve: starts server
+git push: takes everything & puts it on github
+git pull: takes everything from GitHub to your computer
